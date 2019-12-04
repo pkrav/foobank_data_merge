@@ -1,0 +1,7 @@
+.pytest_cache
+
+# IDE files
+.vscode
+
+# Test Data
+data
